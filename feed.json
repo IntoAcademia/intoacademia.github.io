@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Into Academia",
+    "description": "",
+    "home_page_url": "https://intoacademia.github.io/publii-site",
+    "feed_url": "https://intoacademia.github.io/publii-site/feed.json",
+    "user_comment": "",
+    "icon": "https://intoacademia.github.io/publii-site/media/website/Into_Academia.png",
+    "author": {
+        "name": "Vic Arnaud"
+    },
+    "items": [
+    ]
+}
